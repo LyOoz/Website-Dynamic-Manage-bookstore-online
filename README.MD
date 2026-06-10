@@ -17,8 +17,8 @@ Designed for scalability, clean structure, and real-world usage.
 - Backend: PHP
 - Database: MySQL
 
-# Database (ER-Model)
-![image](https://res.cloudinary.com/dpij1hdso/image/upload/v1781130054/IMG_4409_nhvkkx.jpg1514389265839296675/IMG_4409.png?ex=6a2b3068&is=6a29dee8&hm=d15b88d4d531988cb1daddcd32f88da5d8d8cc5fe53bf0124cb082461973a01b&)
+## Database (ER-Model)
+![er-model](https://res.cloudinary.com/dpij1hdso/image/upload/v1781130054/IMG_4409_nhvkkx.jpg)
 
 # Installation
 1. Clone the repository
