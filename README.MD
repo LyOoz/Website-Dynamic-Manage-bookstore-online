@@ -18,7 +18,7 @@ Designed for scalability, clean structure, and real-world usage.
 - Database: MySQL
 
 # Database (ER-Model)
-https://cdn.discordapp.com/attachments/759479673498501180/1514389265839296675/IMG_4409.png?ex=6a2b3068&is=6a29dee8&hm=d15b88d4d531988cb1daddcd32f88da5d8d8cc5fe53bf0124cb082461973a01b&
+![image](https://cdn.discordapp.com/attachments/759479673498501180/1514389265839296675/IMG_4409.png?ex=6a2b3068&is=6a29dee8&hm=d15b88d4d531988cb1daddcd32f88da5d8d8cc5fe53bf0124cb082461973a01b&)
 
 # Installation
 1. Clone the repository
